@@ -1,0 +1,6 @@
+{
+  "name": "FreshFold Tauranga",
+  "description": "Laundry pickup and delivery service operating within a 20km radius of Tauranga Crossing. Real-time booking, checkout, customer tracking, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
